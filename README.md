@@ -1,4 +1,4 @@
-This Project is A Homework Platform to Share Daily Homework between Teachers and Students ( Developing for edu in zh_cn )
+This Project is A Homework Platform to Share Daily Homework between Teachers and Students ( Developing for Edu in zh_cn )
 ![poster240818](https://github.com/user-attachments/assets/0ee921e7-e352-4d39-b217-7de9e59e2e84)
 ![readme0](https://github.com/user-attachments/assets/1c4b3009-2722-4e7e-b173-5c82161ee23d)
 ![readme1](https://github.com/user-attachments/assets/64ca1bf7-d8fe-4063-a809-b7933476084b)
