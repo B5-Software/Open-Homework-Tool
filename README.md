@@ -1,4 +1,5 @@
 This Project is A Homework Platform to Share Daily Homework between Teachers and Students ( Developing for edu in zh_cn )
+![poster240818](https://github.com/user-attachments/assets/0ee921e7-e352-4d39-b217-7de9e59e2e84)
 ![readmemin1](https://github.com/B5-Software/Open-Homework-Tool/assets/110681302/0f724d01-b18c-4e31-a661-0c9d7f1b81db)
 ![readmemin2](https://github.com/B5-Software/Open-Homework-Tool/assets/110681302/cd0e10e1-9c82-4054-bb48-f32ef36a70d0)
 ![readmemin3](https://github.com/B5-Software/Open-Homework-Tool/assets/110681302/0c2c0fa0-4b1f-498d-aaa3-8025b59282e4)
