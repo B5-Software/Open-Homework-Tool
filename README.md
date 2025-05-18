@@ -1,10 +1,10 @@
-# Open Homework Tool (开放作业工具)
+# Open Homework Tool
 
 ![Release](https://img.shields.io/github/v/release/B5-Software/Open-Homework-Tool?include_prereleases)
 ![Downloads](https://img.shields.io/github/downloads/B5-Software/Open-Homework-Tool/total)
 ![Stars](https://img.shields.io/github/stars/B5-Software/Open-Homework-Tool?style=social)
 
-一个开源的作业管理工具，帮助学生高效组织、跟踪和完成作业任务。完全免费，尊重您的隐私。
+一个智能的的作业管理工具，帮助学生高效组织、跟踪和完成作业任务。完全免费，尊重您的隐私。
 
 **官方网站**: [b5-software.org/OpenHWT](https://b5-software.org/OpenHWT)  
 **Tor 洋葱地址**: `b5sohwt2dxi56fkv473spwdj7p6mwb4shna4be2wxcu27y5pjxxrq5id.onion`  
